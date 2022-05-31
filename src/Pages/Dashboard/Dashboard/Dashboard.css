@@ -1,0 +1,9 @@
+.list{
+    height: 886px;
+    background: linear-gradient(to bottom ,#231562 ,  #067a7a ) ;
+}
+.dashboard{
+    height: 950px;
+    background: rgba(138, 138, 238, 0.404) ;
+
+}

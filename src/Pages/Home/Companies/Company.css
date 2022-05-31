@@ -1,0 +1,11 @@
+.img{
+    
+    padding-left: 80;
+ }
+@media only screen and (max-width:662px) {
+    .slider img{
+        height: 250px;
+        width: 140px;
+       margin: 20px;
+    }
+}
